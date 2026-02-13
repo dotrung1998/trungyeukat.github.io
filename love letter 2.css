@@ -166,6 +166,7 @@
   opacity: 1;
   -webkit-animation: slideUp 4s linear 1, sideSway 2s ease-in-out 4 alternate;
   -moz-animation: slideUp 4s linear 1, sideSway 2s ease-in-out 4 alternate;
+  animation: slideUp 4s linear 1, sideSway 2s ease-in-out 4 alternate;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
   -webkit-animation-delay: 0.7s;
@@ -178,6 +179,7 @@
   opacity: 1;
   -webkit-animation: slideUp 5s linear 1, sideSway 4s ease-in-out 2 alternate;
   -moz-animation: slideUp 5s linear 1, sideSway 4s ease-in-out 2 alternate;
+  animation: slideUp 5s linear 1, sideSway 4s ease-in-out 2 alternate;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
   -webkit-animation-delay: 0.7s;
@@ -190,6 +192,7 @@
   opacity: 1;
   -webkit-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
   -moz-animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
+  animation: slideUp 7s linear 1, sideSway 2s ease-in-out 6 alternate;
   -webkit-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
   -webkit-animation-delay: 0.7s;
